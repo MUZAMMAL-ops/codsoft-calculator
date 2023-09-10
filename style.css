@@ -1,0 +1,136 @@
+body{
+    background-color: orange;
+}
+
+#main{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    
+}
+#main > input{
+    width: 25%;
+    height: 60px;
+    border: 1px solid blue;
+    border-width: 5px;
+}
+#btn{
+    display: flex;
+    justify-content: center;
+    margin-right: 0.5px
+
+}
+#btn > button{
+    width: 117px;
+    height: 50px;
+    border-width: 3px;
+    background-color: blue;
+    color: white;
+}
+#btn > button:hover{
+    background-color: rgb(205, 110, 110);
+    color: white;
+}
+#btn_1{
+    display: flex;
+    justify-content: center;
+    margin-right: 0.5px
+
+}
+#btn_1 > button{
+    width: 117px;
+    height: 50px;
+    border-width: 3px;
+    background-color: blue;
+    color: white;
+    
+}
+#btn_1 > button:hover{
+    background-color: rgb(202, 222, 26);
+    color: black;
+}
+#btn_2{
+    display: flex;
+    justify-content: center;
+    margin-right: 0.5px
+
+}
+ #btn_2 > button{
+    width: 117px;
+    height: 50px;
+    border-width: 3px;
+    background-color: blue;
+    color: white;
+
+}
+#btn_2 > button:hover{
+    background-color: rgb(62, 222, 26);
+    color: white;
+
+} 
+#btn_3{
+    display: flex;
+    justify-content: center;
+    margin-right: 0.5px
+
+}
+#btn_3 > button{
+    width: 117px;
+    height: 50px;
+    border-width: 3px;
+    background-color: blue;
+    color: white;
+
+}
+#btn_3 >button:hover{
+    background-color: rgb(24, 223, 209);
+    color: white;
+}
+#btn_4{
+    display: flex;
+    justify-content: center;
+    margin-right: 0.5px
+
+}
+#btn_4 > button{
+    width: 117px;
+    height: 50px;
+    border-width: 3px;
+    background-color: blue;
+    color: white;
+
+}
+#btn_4 >button:hover{
+    background-color: rgb(210, 24, 223);
+    color: white;
+
+}
+#btn_5{
+    display: flex;
+    justify-content: center;
+    margin-right: 0.5px
+
+}
+#btn_5 :nth-child(1){
+    width: 117px;
+    height: 50px;
+    border-width: 3px;
+    background-color: blue;
+    color: white;
+
+}
+#btn_5 :nth-child(1):hover{
+    background-color: brown;
+    color: white;
+
+}
+#btn_5 :nth-child(2){
+    width: 235px;
+    height: 50px;
+    border-width: 3px;
+    background-color: rgb(255, 89, 0);
+    color: white;
+    border: none;
+    border-radius: 3px;
+
+}
